@@ -1,6 +1,6 @@
 # Harary and Ross
 This is an R implementation of Harary and Ross' 1957 algorithm for clique detection.
-Note that this algorithm is flawed, as recognized by the author himself (Harary 1970).
+Note that this algorithm is flawed, as recognized by the author himself (Harary 1970). This implementation was made only for historical purpose.
 
 # References
 
